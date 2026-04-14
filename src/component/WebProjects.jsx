@@ -260,7 +260,7 @@ useEffect(() => {
               >
                 Self Portfolio.
                 <br />
-                Self portfolio created to show my works. This Portfolio is created usign react.
+                Self portfolio created to show my works. This Portfolio is created using react.
               </p>
             </div>
           </div>
