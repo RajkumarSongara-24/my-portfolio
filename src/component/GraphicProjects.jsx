@@ -25,6 +25,8 @@ import ConnectUs from "../assets/ConnectUs.png";
 import G9 from "../assets/G9.png";
 import RudraLogo from "../assets/RudraLogo.png";
 import Amul from "../assets/Amul.png";
+import Karma from "../assets/Karma.jpg";
+import Lose from "../assets/ LOSE YOUR MIND.jpg";
 import Viewer from 'viewerjs';
 const GraphicProjects = () => {
 
@@ -55,6 +57,8 @@ const GraphicProjects = () => {
     ],
 
     poster: [
+      Karma,
+      Lose,
       RajPoster,
       DontLookBehind,
       jewellery,
