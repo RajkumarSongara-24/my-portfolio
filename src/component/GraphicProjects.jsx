@@ -23,7 +23,8 @@ import DontLookBehind from "../assets/dontLookBehind.jpg";
 import Royal from "../assets/Royal.png";
 import ConnectUs from "../assets/ConnectUs.png";
 import G9 from "../assets/G9.png";
-import Packaging from "../assets/Packaging.png";
+import RudraLogo from "../assets/RudraLogo.png";
+import Amul from "../assets/Amul.png";
 import Viewer from 'viewerjs';
 const GraphicProjects = () => {
 
@@ -50,6 +51,7 @@ const GraphicProjects = () => {
       Royal,
       ConnectUs,
       G9,
+      RudraLogo,
     ],
 
     poster: [
@@ -62,7 +64,7 @@ const GraphicProjects = () => {
     ],
 
     packaging: [
-      Packaging,
+      Amul,
     ],
   };
 
